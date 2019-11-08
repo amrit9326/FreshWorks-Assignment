@@ -1,0 +1,46 @@
+{
+    "striker": [
+        {
+            "name": "Alexis Sanchez",
+            "club": "Manchester United"
+        },
+        {
+            "name": "Robin van Persie",
+            "club": "Feyenoord"
+        },
+        {
+            "name": "Alexis Sanchez",
+            "club": "Manchester United"
+        },
+        {
+            "name": "Robin van Persie",
+            "club": "Feyenoord"
+        }
+    ],
+    "employer": [
+        {
+            "name": "Alexis Sanchez",
+            "club": "Manchester United"
+        },
+        {
+            "name": "Robin van Persie",
+            "club": "Feyenoord"
+        },
+        {
+            "name": "Alexis Sanchez",
+            "club": "Manchester United"
+        },
+        {
+            "name": "Robin van Persie",
+            "club": "Feyenoord"
+        },
+        {
+            "name": "Alexis Sanchez",
+            "club": "Manchester United"
+        },
+        {
+            "name": "Robin van Persie",
+            "club": "Feyenoord"
+        }
+    ]
+}
